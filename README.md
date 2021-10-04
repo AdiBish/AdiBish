@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdiBish (short for Aditi Bishnoi)
+- 👋 Hi, I’m @AdiBish 
 - 👀 I’m interested in Neuroscience and AI. I analyse neural data and study brain oscillations.
 - 🌱 I’m currently learning Machine Learning in python
 - 💞️ I’m looking to collaborate on data analysis and data visualization projects
